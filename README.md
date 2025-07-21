@@ -1,2 +1,2 @@
-# Magic_goblet_maze
-Collect treasures in the maze while escaping Minotaur and avoiding traps.
+# Nutribot
+Use chat to describe symptoms and get health vitamin and nutrient recommendations
